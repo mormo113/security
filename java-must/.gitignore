@@ -1,0 +1,13 @@
+**/out/
+.classpath
+.bak
+.project
+.settings/
+target/
+.checkstyle
+generated-resources/
+**/.idea/
+**/*.iml
+**/*.jasper
+**/.idea/*.xml
+
